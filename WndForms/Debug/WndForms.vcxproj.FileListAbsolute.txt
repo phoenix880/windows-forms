@@ -1,0 +1,2 @@
+D:\my projects\WndForms\WndForms\Debug\WndForms.MyForm.resources
+D:\my projects\WndForms\WndForms\Debug\WndForms.vcxproj.GenerateResource.cache

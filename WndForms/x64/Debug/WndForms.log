@@ -1,0 +1,8 @@
+﻿  MyForm.cpp
+D:\my projects\WndForms\WndForms\MainForm.h(283,3): warning C4996: '_sleep': This function or variable has been superceded by newer library or operating system functionality. Consider using Sleep instead. See online help for details.
+D:\my projects\WndForms\WndForms\MainForm.h(288,3): warning C4996: '_sleep': This function or variable has been superceded by newer library or operating system functionality. Consider using Sleep instead. See online help for details.
+D:\my projects\WndForms\WndForms\MainForm.h(293,3): warning C4996: '_sleep': This function or variable has been superceded by newer library or operating system functionality. Consider using Sleep instead. See online help for details.
+  RegisterForm.cpp
+  Создание кода...
+  MainForm.obj : обнаружен модуль MSIL; для MSIL последовательная компоновка отключена; выполняется полная компоновка
+  WndForms.vcxproj -> D:\my projects\WndForms\x64\Debug\WndForms.exe

@@ -1,0 +1,6 @@
+D:\my projects\WndForms\WndForms\x64\Debug\WndForms.LoginForm.resources
+D:\my projects\WndForms\WndForms\x64\Debug\WndForms.MainForm.resources
+D:\my projects\WndForms\WndForms\x64\Debug\WndForms.vcxproj.GenerateResource.cache
+D:\my projects\WndForms\WndForms\x64\Debug\WndForms.vcxproj.CopyComplete
+D:\my projects\WndForms\WndForms\x64\Debug\WndForms.vcxproj.AssemblyReference.cache
+D:\my projects\WndForms\WndForms\x64\Debug\WndForms.RegisterForm.resources

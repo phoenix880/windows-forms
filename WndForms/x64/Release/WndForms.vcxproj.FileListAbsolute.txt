@@ -1,0 +1,3 @@
+D:\my projects\WndForms\WndForms\x64\Release\WndForms.vcxproj.AssemblyReference.cache
+D:\my projects\WndForms\WndForms\x64\Release\WndForms.MyForm.resources
+D:\my projects\WndForms\WndForms\x64\Release\WndForms.vcxproj.GenerateResource.cache
